@@ -1,0 +1,19 @@
+{
+  "platforms": [
+    {
+      "id": "instagram",
+      "name": "Instagram",
+      "summary": {
+        "impressions": 120430,
+        "clicks": 12400,
+        "ctr": 10.29,
+        "cpc": 0.12,
+        "spent": 1480,
+        "conversions": 480,
+        "cpa": 3.08,
+        "revenue": 5200,
+        "roi": 251.3
+      }
+    }
+  ]
+}

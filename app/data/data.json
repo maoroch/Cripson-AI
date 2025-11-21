@@ -1,0 +1,51 @@
+{
+  "chartData": [
+    {
+      "name": "Рост за неделю",
+      "period": "Неделя",
+      "data": [
+        { "name": "Пн", "value": 10 },
+        { "name": "Вт", "value": 40 },
+        { "name": "Ср", "value": 30 },
+        { "name": "Чт", "value": 60 },
+        { "name": "Пт", "value": 50 },
+        { "name": "Сб", "value": 70 },
+        { "name": "Вс", "value": 45 }
+      ],
+      "color": "#8884d8",
+      "stats": {
+        "max": 70,
+        "average": 43,
+        "growth": "+400%"
+      },
+      "gradient": ["from-blue-500/10", "via-purple-500/10", "to-indigo-500/10"],
+      "iconGradient": ["from-blue-500", "to-purple-500"]
+    },
+    {
+      "name": "Рост за месяц",
+      "period": "Месяц",
+      "data": [
+        { "name": "Нед1", "value": 15 },
+        { "name": "Нед2", "value": 35 },
+        { "name": "Нед3", "value": 60 },
+        { "name": "Нед4", "value": 80 },
+        { "name": "Нед5", "value": 95 }
+      ],
+      "color": "#82ca9d",
+      "stats": {
+        "max": 95,
+        "average": 57,
+        "growth": "+20%"
+      },
+      "gradient": ["from-emerald-500/10", "via-teal-500/10", "to-cyan-500/10"],
+      "iconGradient": ["from-emerald-500", "to-teal-500"]
+    }
+  ],
+  "aiTips": [
+    {
+      "id": 1,
+      "title": "Анализ ИИ",
+      "text": ""
+    }
+  ]
+}

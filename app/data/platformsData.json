@@ -1,0 +1,69 @@
+{
+  "platforms": {
+    "instagram": {
+      "id": "instagram",
+      "name": "Instagram",
+      "gradient": "from-pink-500 via-purple-500 to-indigo-500",
+      "stats": {
+        "impressions": 120430,
+        "clicks": 12400,
+        "ctr": 10.29,
+        "spent": 1480,
+        "conversions": 480,
+        "roi": 251.3
+      }
+    },
+    "facebook": {
+      "id": "facebook",
+      "name": "Facebook",
+      "gradient": "from-blue-600 via-blue-500 to-indigo-600",
+      "stats": {
+        "impressions": 95200,
+        "clicks": 8500,
+        "ctr": 8.93,
+        "spent": 1200,
+        "conversions": 380,
+        "roi": 198.5
+      }
+    },
+    "tiktok": {
+      "id": "tiktok",
+      "name": "TikTok",
+      "gradient": "from-pink-400 via-red-500 to-purple-600",
+      "stats": {
+        "impressions": 145000,
+        "clicks": 15800,
+        "ctr": 10.9,
+        "spent": 1850,
+        "conversions": 520,
+        "roi": 275.4
+      }
+    },
+    "google": {
+      "id": "google",
+      "name": "Google Ads",
+      "gradient": "from-yellow-400 via-orange-500 to-red-500",
+      "stats": {
+        "impressions": 88900,
+        "clicks": 7200,
+        "ctr": 8.1,
+        "spent": 980,
+        "conversions": 310,
+        "roi": 185.7
+      }
+    },
+    "youtube": {
+      "id": "youtube",
+      "name": "YouTube",
+      "gradient": "from-red-500 via-red-600 to-pink-500",
+      "stats": {
+        "impressions": 102500,
+        "clicks": 9800,
+        "ctr": 9.56,
+        "spent": 1350,
+        "conversions": 420,
+        "roi": 215.3
+      }
+    }
+  }
+}
